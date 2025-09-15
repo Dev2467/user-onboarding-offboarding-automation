@@ -1,0 +1,4 @@
+[2025-09-09 13:35:29] Onboarded Alicia Moore (Finance) - Email: alicia.moore@company.com, Role: Analyst, Temp Password: Welcome123!
+[2025-09-09 13:35:29] Onboarded Kevin Jordan (HR) - Email: kevin.jordan@company.com, Role: Recruiter, Temp Password: Welcome123!
+[2025-09-09 13:35:29] Offboarded Julia Roberts (Marketing) - Email: julia.roberts@company.com, Account deactivated and archived
+[2025-09-09 13:35:29] Onboarded Carl Best (IT) - Email: carl.best@company.com, Role: Technician, Temp Password: Welcome123!
